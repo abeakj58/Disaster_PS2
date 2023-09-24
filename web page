@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nipah Virus Awareness</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <header>
+        <nav>
+            <div class="container">
+                <h1>Nipah Virus Awareness</h1>
+                <ul>
+                    <li><a href="#about">About Nipah Virus</a></li>
+                    <li><a href="#symptoms">Symptoms</a></li>
+                    <li><a href="#prevention">Prevention</a></li>
+                    <li><a href="#donate">Donate</a></li>
+                    <li><a href="#resources">Resources</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h2>Join Us in the Fight Against Nipah Virus</h2>
+            <p>Together, we can raise awareness and support those affected by Nipah virus.</p>
+            <a href="#donate" class="cta-button">Donate Now</a>
+        </div>
+    </section>
+
+    <!-- About Nipah Virus -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Nipah Virus</h2>
+            <p>
+                Nipah virus is a deadly virus that can cause severe respiratory and neurological problems in humans. Learn more about its origin, transmission, and impact on our <a href="about.html">about page</a>.
+            </p>
+        </div>
+    </section>
+
+    <!-- Symptoms -->
+    <section id="symptoms" class="symptoms">
+        <div class="container">
+            <h2>Symptoms of Nipah Virus</h2>
+            <p>
+                Recognizing the symptoms is crucial for early detection and prevention. Explore the common symptoms on our <a href="symptoms.html">symptoms page</a>.
+            </p>
+        </div>
+    </section>
+
+    <!-- Prevention -->
+    <section id="prevention" class="prevention">
+        <div class="container">
+            <h2>Prevention and Safety Measures</h2>
+            <p>
+                Discover essential prevention methods and safety measures to protect yourself and your community from Nipah virus. Visit our <a href="prevention.html">prevention page</a> for details.
+            </p>
+        </div>
+    </section>
+
+    <!-- Donate -->
+    <section id="donate" class="donate">
+        <div class="container">
+            <h2>Donate to Support Nipah Virus Victims</h2>
+            <p>
+                Your contribution can make a significant difference in the lives of those affected. Donate now and help us provide relief and support.
+            </p>
+            <a href="donate.html" class="cta-button">Donate Now</a>
+        </div>
+    </section>
+
+    <!-- Resources -->
+    <section id="resources" class="resources">
+        <div class="container">
+            <h2>Resources</h2>
+            <p>
+                Access valuable resources, including research articles, guidelines, and emergency contacts, on our <a href="resources.html">resources page</a>.
+            </p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 Nipah Virus Awareness</p>
+        </div>
+    </footer>
+
+    <!-- Add your JavaScript for interactivity here -->
+
+</body>
+</html>
